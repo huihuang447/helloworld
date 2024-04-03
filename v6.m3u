@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="广东台" tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
-https://php.17186.eu.org/gdtv/gdzj.m3u8
 #EXTINF:-1 group-title="广东台" tvg-id="深圳电视台都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512040002347.jpg",深圳电视台都市频道
 http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
@@ -39,6 +37,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
+#EXTINF:-1 group-title="广东台" tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
+https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=48ce36cdbfda198f19ad7d9f9a8149b9-Ig4yv%2BxL7XYa%2BgsxaWeANljTI8PgSs50pCNwUUNKUQwVTZ7sxNDA%2FRBk6H8lqPJRxLdm%2BR%2FgEY1wWwLWdb7dWxAkDQ3L1drXnCMJyjMd%2BLlOSEJkqR67Lw7by%2Bgzs663mmtPF885uq8mWck11%2Fe8uPlZ8krj2uiC%2BsyfvK9FZFb1g%2B7r2Iq0ds1lWCP1TZWwFd%2FEUzfu%2Fzh9BFGWI4F8Ev%2BO5fo7bZjtUdWpNT%2FrG46dd%2FSp%2Fd1WzxGsXNKSpJ0aBflh3N2DUXpPfkJyRUzevbhGsrWBRBYHn4ZRmwfSNP2ZHFheKcvBlGQeUmlwAmPBiil%2BFeaKzKr3tDnzCNkfRgIybSVzwKW5wBf6CENQIxKSfAI8A4HA3zNcZ%2BYE99oNrdcq9UWQlQZqY419N4yzErf2Afz5aGY9cJSkQdpx7Js9ti34se1LODTHIYQxvf8xKLatvPbTbXB%2FNUgkg65xQ6%2BLCMPgioFzXTJ6hG5iBbo%3D
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰中文
