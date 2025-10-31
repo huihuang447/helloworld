@@ -1,112 +1,19 @@
-#EXTINF:-1 ,cctv1
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225723/index.m3u8
-#EXTINF:-1 ,cctv1
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225770/index.m3u8
-#EXTINF:-1 ,cctv2财经
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/index.m3u8
-#EXTINF:-1 ,cctv3综艺
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225766/index.m3u8
-#EXTINF:-1 ,cctv4中文国际
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226124/1.m3u8
-#EXTINF:-1 ,cctv5体育
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225734/index.m3u8
-#EXTINF:-1 ,cctv5体育
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226146/1.m3u8
-#EXTINF:-1 ,cctv6电影
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225741/index.m3u8
-#EXTINF:-1 ,cctv7国防
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225701/index.m3u8
-#EXTINF:-1 ,cctv8电视剧
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225736/index.m3u8
-#EXTINF:-1 ,cctv10科教
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225743/index.m3u8
-#EXTINF:-1 ,cctv11戏曲
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226101/1.m3u8
-#EXTINF:-1 ,cctv12社会与法
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226103/1.m3u8
-#EXTINF:-1 ,cctv13新闻
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226128/1.m3u8
-#EXTINF:-1 ,cctv14少儿
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225738/index.m3u8
-#EXTINF:-1 ,cctv15音乐
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226147/1.m3u8
-#EXTINF:-1 ,cctv16奥林匹克
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/1.m3u8
-#EXTINF:-1 ,江苏卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225720/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225722/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/index.m3u8
-#EXTINF:-1 ,上海卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225725/index.m3u8
-#EXTINF:-1 ,芒果卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225726/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225727/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225728/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225729/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225731/index.m3u8
-#EXTINF:-1 ,五星体育
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225733/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225739/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225740/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225742/index.m3u8
-#EXTINF:-1 ,东方影视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225745/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225747/index.m3u8
-#EXTINF:-1 ,康巴卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226132/1.m3u8
-#EXTINF:-1 ,四川卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226152/1.m3u8
-#EXTINF:-1 ,兵团卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226111/1.m3u8
-#EXTINF:-1 ,广西卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/1.m3u8
-#EXTINF:-1 ,贵州卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/1.m3u8
-#EXTINF:-1 ,海南卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/1.m3u8
-#EXTINF:-1 ,吉林卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226149/1.m3u8
-#EXTINF:-1 ,青海卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226105/1.m3u8
-#EXTINF:-1 ,山西卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/1.m3u8
-#EXTINF:-1 ,游戏频道
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226117/1.m3u8
-#EXTINF:-1 ,云南卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226109/1.m3u8
-#EXTINF:-1 ,云南卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226151/1.m3u8
-#EXTINF:-1 ,重庆卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226171/1.m3u8
-#EXTINF:-1 ,上海都市
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/index.m3u8
-#EXTINF:-1 ,都市剧场
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/index.m3u8
-#EXTINF:-1 ,第一财经
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/index.m3u8
-#EXTINF:-1 ,广州综合
-http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 ,广州新闻
-http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-#EXTINF:-1 ,南国都市
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1 ,深圳都市
-http://117.141.162.238:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,广东珠江
-http://117.141.162.238:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-name="北京卫视4K超高清" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",北京卫视4K超高清
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1761921016&sign=fdb23c634eed1717fda017d54e1b6897
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",北京卫视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1761921007&sign=7b886c058fbff6bc5b4aaa7360d52e6d
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png",北京新闻
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1761921014&sign=487f328e0727acb810f5fe02bb4b630c
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png",北京影视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1761921010&sign=a5441ad35b44314f442266bbc67f0b16
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png",北京生活
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1761921013&sign=58c0a694c5c1bccef325448560eac042
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京文艺.png",北京文艺
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1761921008&sign=5d51a2bf9b4ce1dc47787407a85cd37c
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png",北京财经
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1761921012&sign=384c30510fbecfde17f0f01945828a76
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png",北京纪实科教
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1761921009&sign=5aa6a77f1707502546cb8e7d50170f6a
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png",北京卡酷少儿
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1761921015&sign=a2767d41e36002417d1075f027e3f6fa
