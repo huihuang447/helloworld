@@ -32,6 +32,8 @@ http://106.53.99.30/tv/migu.php?id=cctv15
 http://106.53.99.30/tv/migu.php?id=jsws
 #EXTINF:-1 ,东方卫视
 http://106.53.99.30/tv/migu.php?id=dfws
+#EXTINF:-1 ,深圳卫视
+http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,广东卫视
 http://106.53.99.30/tv/migu.php?id=gdws
 #EXTINF:-1 ,广西卫视
