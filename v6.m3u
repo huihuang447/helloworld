@@ -26,7 +26,9 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226714/1.m3u8
 http://[2409:8087:5804:11::411:1075]:8088/PLTV/81/224/3221226748/1.m3u8
 #EXTINF:-1 ,cctv13新闻
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226717/1.m3u8
-#EXTINF:-1 ,深圳都市
+#EXTINF:-1 ,深圳都市1
+http://120.198.95.220:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,深圳都市2
 http://116.77.33.98:44330/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 ,cctv14少儿
 http://[2409:8087:5804:11::411:1075]:8088/PLTV/81/224/3221226645/1.m3u8
