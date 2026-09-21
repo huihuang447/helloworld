@@ -7,6 +7,10 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226720/1.m3u8
 #EXTINF:-1 ,cctv4中文国际
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8
 #EXTINF:-1 ,cctv5体育
+http://work.ruibang.ltd:5140/%E5%A4%AE%E8%A7%86/CCTV5HD
+#EXTINF:-1 ,cctv5体育+
+http://work.ruibang.ltd:5140/%E5%A4%AE%E8%A7%86/CCTV5%2BHD
+#EXTINF:-1 ,cctv5体育
 http://[2409:8087:5804:11::411:1075]:8088/PLTV/81/224/3221226731/1.m3u8
 #EXTINF:-1 ,cctv5体育+
 http://[2409:8087:5804:11::411:1075]:8088/PLTV/81/224/3221226711/1.m3u8
